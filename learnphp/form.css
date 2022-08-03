@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    padding-top: 100px;
+    background-color: rgb(18, 120, 160);
+    background-image: url(stairs-426389_1920.jpg);
+
+}
+form{
+    background-color:#ddd;
+    padding:30px;
+    border:2px solid chartreuse ;
+    border-radius: 40px;
+    height:350px;
+    margin-left: 100px;
+    width: 400px;
+    font-size: large;
+    font-style:italic;
+    padding-left: 50px;
+    color:rgb(158, 8, 204)
+}
+
+.fill{
+    padding-left: 40px;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+a{
+    padding: 5px;
+    font-size: x-large;
+    background-color: cyan;
+    border-radius: 10px;
+    height: 10px;
+    width:2px;
+}
